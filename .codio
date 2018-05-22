@@ -8,6 +8,6 @@
 
 // Preview button configuration
   "preview": {
-        "Preview": "https://{{domain3000}}/app"
+        "Preview": "https://{{domain9500}}/app"
   }
 }
