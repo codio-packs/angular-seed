@@ -25,7 +25,7 @@ Once the project was opened in the IDE, we opened up a Terminal window and ran
 npm install
 ```
 
-We then modified the `package.json` file to ensure that `npm start` runs on ip address `0.0.0.0` and port 3000 by replacing the `start` key/value with this
+We then modified the `package.json` file to ensure that `npm start` runs on ip address `0.0.0.0` and port 9500 by replacing the `start` key/value with this
 
 ```json
 "start": "http-server -a 0.0.0.0 -p 9500 -c-1",
